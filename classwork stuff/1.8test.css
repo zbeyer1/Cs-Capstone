@@ -1,0 +1,39 @@
+body {
+    background-color: #AD98F3;
+     
+}
+ h1{
+color:pink;
+border: 5px dashed pink;
+font-weight: bold;
+text-align:center;
+ }
+ h2{
+    border: 5px solid green;
+    font-family:Impact, Haettenschweiler;
+ }
+
+ 
+ h3{
+    border: 5px solid green;
+    font-family:Impact, Haettenschweiler;
+   
+ }
+ h4{
+    border: 5px solid green;
+    font-family:Impact, Haettenschweiler;
+ }
+ h5{
+    border: 5px solid green;
+    font-family:Impact, Haettenschweiler;
+ }
+ img{
+border-style: double;
+border: 5px double green;
+margin: auto;
+display:block;
+opacity: 0.9;
+border-radius: 90px;
+width: 250x;
+
+ }
